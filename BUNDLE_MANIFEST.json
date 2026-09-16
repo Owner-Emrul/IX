@@ -1,0 +1,19 @@
+{
+  "bundle": "IX Telegram WingoBestHack_bot — Premium Command Deck v4.2",
+  "interface": "Telegram inline-keyboard admin panel (no web app)",
+  "includes": [
+    "Telegram bot source",
+    "config template",
+    "persistent state directory",
+    "README",
+    "original IX_v3_new.html source/reference",
+    "visual SVG chart + Dhaka-time loss heatmap"
+  ],
+  "security": [
+    "Bot token is intentionally not included.",
+    "Use a newly regenerated BotFather token.",
+    "Do not commit secrets to a public GitHub repository."
+  ],
+  "bot_name": "IX Telegram WingoBestHack_bot",
+  "branding": "IX"
+}
